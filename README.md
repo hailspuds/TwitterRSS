@@ -21,6 +21,11 @@ You can also follow the user's favourites (I like using favourites as a "read la
 http://example.com/TwitterRSS/favourite.php?user=AwesomeTweeter
 ~~~
 
+##### Contact
+
+If you have any problems with this script, open an issue! Easy.
+
+
 ##### Thanks
 Thanks to mibe who maintains [FeedWriter](https://github.com/mibe/FeedWriter) for the PHP library which creates the RSS feed.
 
